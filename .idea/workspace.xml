@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff8d459c-b75b-41df-b7d7-f9777f97bf0f" name="Default Changelist" comment="" />
+    <list default="true" id="ff8d459c-b75b-41df-b7d7-f9777f97bf0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/WordSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/WordSortTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wordExample" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZHDSWegIVSICqYdGZF1IgTFBTC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,6 +39,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -179,10 +184,14 @@
     </state>
     <state width="1398" height="301" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584520246059" />
     <state width="1398" height="220" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1584525273056" />
-    <state x="374" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1584525452862">
+    <state x="0" y="178" key="SettingsEditor" timestamp="1584527267919">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="374" y="217" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1584525452862" />
+    <state x="0" y="178" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1584527267919" />
+    <state x="374" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1584527156219">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="374" y="217" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1584527156219" />
     <state x="424" y="352" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584487383791">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -201,7 +210,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/WordSortTest.java</url>
-          <line>37</line>
+          <line>41</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>

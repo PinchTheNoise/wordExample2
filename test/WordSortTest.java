@@ -3,6 +3,10 @@ import org.junit.Test;
 
 public class WordSortTest {
 
+    /**
+     * JUNIT tests for WordSort methods for obtaining max and min length words in a sentence.
+     */
+
     @Test
     public void test_The_Maximum_Length_Word() {
         WordSort w = new WordSort();
