@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff8d459c-b75b-41df-b7d7-f9777f97bf0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wordExample" />
+  </component>
+  <component name="ProjectId" id="1ZHDSWegIVSICqYdGZF1IgTFBTC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WordSortTest">
+    <configuration name="WordSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wordExample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordSortTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSortTest.get_First_Single_Shortest_Word_In_Empty_String_Returns_Empty_String" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wordExample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordSortTest" />
+      <option name="METHOD_NAME" value="get_First_Single_Shortest_Word_In_Empty_String_Returns_Empty_String" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSortTest.testThereIsOnlyOneMaximumLengthWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wordExample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordSortTest" />
+      <option name="METHOD_NAME" value="testThereIsOnlyOneMaximumLengthWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSortTest.test_Empty_String_Word_Map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wordExample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordSortTest" />
+      <option name="METHOD_NAME" value="test_Empty_String_Word_Map" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSortTest.test_That_Fox_And_Cat_Are_Both_Minimum_Count_Words" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wordExample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordSortTest" />
+      <option name="METHOD_NAME" value="test_That_Fox_And_Cat_Are_Both_Minimum_Count_Words" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordSortTest" />
+        <item itemvalue="JUnit.WordSortTest.test_That_Fox_And_Cat_Are_Both_Minimum_Count_Words" />
+        <item itemvalue="JUnit.WordSortTest.test_Empty_String_Word_Map" />
+        <item itemvalue="JUnit.WordSortTest.get_First_Single_Shortest_Word_In_Empty_String_Returns_Empty_String" />
+        <item itemvalue="JUnit.WordSortTest.testThereIsOnlyOneMaximumLengthWord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff8d459c-b75b-41df-b7d7-f9777f97bf0f" name="Default Changelist" comment="" />
+      <created>1584487125759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584487125759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="162" key="#xdebugger.evaluate" timestamp="1584518855179">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="483" y="143" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1584514479622" />
+    <state x="483" y="162" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1584518855179" />
+    <state width="484" height="466" key="DebuggerActiveHint" timestamp="1584525215331">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="484" height="466" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1584525215331" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1584525273054">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584521237303" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584525273054" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1584525273053">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584521237302" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1584525273053" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1584525273045">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584521237302" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1584525273045" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1584525273054">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584521237303" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584525273054" />
+    <state width="1398" height="220" key="GridCell.Tab.1.bottom" timestamp="1584525273056">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="301" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584520246059" />
+    <state width="1398" height="220" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584525273056" />
+    <state width="1398" height="220" key="GridCell.Tab.1.center" timestamp="1584525273055">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="301" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584520246058" />
+    <state width="1398" height="220" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1584525273055" />
+    <state width="1398" height="220" key="GridCell.Tab.1.left" timestamp="1584525273055">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="301" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584520246058" />
+    <state width="1398" height="220" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1584525273055" />
+    <state width="1398" height="220" key="GridCell.Tab.1.right" timestamp="1584525273056">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="301" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584520246059" />
+    <state width="1398" height="220" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1584525273056" />
+    <state x="374" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1584525452862">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="374" y="217" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1584525452862" />
+    <state x="424" y="352" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584487383791">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="424" y="352" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1584487383791" />
+    <state x="499" y="185" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584487388513">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="499" y="185" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1584487388512" />
+    <state x="385" y="198" width="670" height="676" key="search.everywhere.popup" timestamp="1584516449103">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="198" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1584516449103" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/WordSortTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
